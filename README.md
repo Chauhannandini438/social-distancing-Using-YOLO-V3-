@@ -22,8 +22,7 @@ Docker: For containerization and easy deployment.
 
 Installation:
 1.Clone the repository:                                                                      
- git clone https://github.com/yourusername/social-distancing-project.git
-cd social-distancing-project
+ git clone https://github.com/Chauhannandini438/social-distancing-Using-YOLO-V3-.git
 
 2.Install dependencies:
 pip install -r requirements.txt
